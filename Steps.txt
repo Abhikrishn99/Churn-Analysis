@@ -1,0 +1,7 @@
+1. Split the csv into churners and non-churners.
+2. EDA
+   a. Univariate analysis of data wrt churn target variable.
+   b. Bivariate Analysis.
+   c. Trivariate Analysis
+   d. Variable Corelation
+3. 
